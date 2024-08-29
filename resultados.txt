@@ -1,0 +1,111 @@
+Pedido 1:
+Ítems del pedido:
+Item 45: Fila 7, Columna 2
+Item 7: Fila 1, Columna 0
+Item 19: Fila 3, Columna 0
+Item 54: Fila 8, Columna 5
+Item 7: Fila 1, Columna 0
+Item 52: Fila 8, Columna 3
+Item 13: Fila 2, Columna 0
+Item 37: Fila 6, Columna 0
+Item 36: Fila 5, Columna 5
+Tiempo de procesamiento del pedido: 23 ms
+Posiciones recolectadas:
+Item en Fila: 7, Columna: 2
+Item en Fila: 1, Columna: 0
+Item en Fila: 3, Columna: 0
+Item en Fila: 8, Columna: 5
+Item en Fila: 1, Columna: 0
+Item en Fila: 8, Columna: 3
+Item en Fila: 2, Columna: 0
+Item en Fila: 6, Columna: 0
+Item en Fila: 5, Columna: 5
+
+Pedido 2:
+Ítems del pedido:
+Item 34: Fila 5, Columna 3
+Item 59: Fila 9, Columna 4
+Item 51: Fila 8, Columna 2
+Item 27: Fila 4, Columna 2
+Item 2: Fila 0, Columna 1
+Item 22: Fila 3, Columna 3
+Item 25: Fila 4, Columna 0
+Tiempo de procesamiento del pedido: 1 ms
+Posiciones recolectadas:
+Item en Fila: 5, Columna: 3
+Item en Fila: 9, Columna: 4
+Item en Fila: 8, Columna: 2
+Item en Fila: 4, Columna: 2
+Item en Fila: 0, Columna: 1
+Item en Fila: 3, Columna: 3
+Item en Fila: 4, Columna: 0
+
+Pedido 3:
+Ítems del pedido:
+Item 7: Fila 1, Columna 0
+Item 5: Fila 0, Columna 4
+Item 33: Fila 5, Columna 2
+Item 5: Fila 0, Columna 4
+Item 3: Fila 0, Columna 2
+Item 2: Fila 0, Columna 1
+Item 46: Fila 7, Columna 3
+Item 21: Fila 3, Columna 2
+Item 48: Fila 7, Columna 5
+Tiempo de procesamiento del pedido: 2 ms
+Posiciones recolectadas:
+Item en Fila: 1, Columna: 0
+Item en Fila: 0, Columna: 4
+Item en Fila: 5, Columna: 2
+Item en Fila: 0, Columna: 4
+Item en Fila: 0, Columna: 2
+Item en Fila: 0, Columna: 1
+Item en Fila: 7, Columna: 3
+Item en Fila: 3, Columna: 2
+Item en Fila: 7, Columna: 5
+
+Pedido 4:
+Ítems del pedido:
+Item 21: Fila 3, Columna 2
+Item 18: Fila 2, Columna 5
+Item 19: Fila 3, Columna 0
+Item 36: Fila 5, Columna 5
+Item 13: Fila 2, Columna 0
+Item 33: Fila 5, Columna 2
+Item 54: Fila 8, Columna 5
+Item 38: Fila 6, Columna 1
+Tiempo de procesamiento del pedido: 1 ms
+Posiciones recolectadas:
+Item en Fila: 3, Columna: 2
+Item en Fila: 2, Columna: 5
+Item en Fila: 3, Columna: 0
+Item en Fila: 5, Columna: 5
+Item en Fila: 2, Columna: 0
+Item en Fila: 5, Columna: 2
+Item en Fila: 8, Columna: 5
+Item en Fila: 6, Columna: 1
+
+Pedido 5:
+Ítems del pedido:
+Item 13: Fila 2, Columna 0
+Item 60: Fila 9, Columna 5
+Item 8: Fila 1, Columna 1
+Item 43: Fila 7, Columna 0
+Item 16: Fila 2, Columna 3
+Item 51: Fila 8, Columna 2
+Item 13: Fila 2, Columna 0
+Item 37: Fila 6, Columna 0
+Item 56: Fila 9, Columna 1
+Item 1: Fila 0, Columna 0
+Tiempo de procesamiento del pedido: 1 ms
+Posiciones recolectadas:
+Item en Fila: 2, Columna: 0
+Item en Fila: 9, Columna: 5
+Item en Fila: 1, Columna: 1
+Item en Fila: 7, Columna: 0
+Item en Fila: 2, Columna: 3
+Item en Fila: 8, Columna: 2
+Item en Fila: 2, Columna: 0
+Item en Fila: 6, Columna: 0
+Item en Fila: 9, Columna: 1
+Item en Fila: 0, Columna: 0
+
